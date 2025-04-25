@@ -1,6 +1,6 @@
 # Big Data Projects – Haifa University
 
-This repository includes two Big Data **course projects** from the Big Data course at Haifa University. These projects focus on the practical implementation of distributed data processing using **Hadoop MapReduce** and **Apache Spark**.
+This repository includes two Big Data **course projects** from the Big Data course at Haifa University. These projects focus on the practical implementation of distributed data processing using **Hadoop MapReduce** and **Apache Spark** .
 
 ---
 
